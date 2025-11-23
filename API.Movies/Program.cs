@@ -1,3 +1,12 @@
+using API.Movies.DAL;
+using API.Movies.MoviesMapper;
+using API.Movies.Repository;
+using API.Movies.Repository.IRepository;
+using API.Movies.Services;
+using API.Movies.Services.IServices;
+using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
