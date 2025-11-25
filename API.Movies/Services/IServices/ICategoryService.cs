@@ -1,5 +1,4 @@
 ﻿using API.Movies.DAL.Models.Dtos;
-using API.Movies.DAL.Models;
 
 
 namespace API.Movies.Services.IServices

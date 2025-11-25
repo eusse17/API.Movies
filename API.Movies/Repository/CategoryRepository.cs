@@ -2,7 +2,6 @@
 using API.Movies.DAL.Models;
 using API.Movies.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.Design;
 
 namespace API.Movies.Repository
 {
